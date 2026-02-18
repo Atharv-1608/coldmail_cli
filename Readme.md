@@ -27,20 +27,6 @@ The script reads contacts, fills in a Handlebars template, and sends emails **on
 - Handlebars
 - dotenv
 
----
-
-## 📁 Project Structure
-
-project-root/
-│
-├── contacts.csv # List of recipients
-├── template.txt # Email template
-├── index.js # Main script
-├── .env # Email credentials (ignored by git)
-├── .gitignore
-├── package.json
-└── README.md
-
 
 ---
 
