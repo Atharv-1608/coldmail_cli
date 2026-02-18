@@ -1,0 +1,18 @@
+{
+  "name": "coldmail",
+  "version": "1.0.0",
+  "description": "CLI tool for sending personalized cold emails",
+  "bin": {
+    "coldmail": "./cli.js"
+  },
+  "type": "commonjs",
+  "scripts": {
+    "start": "node cli.js"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "dotenv": "^17.3.1",
+    "handlebars": "^4.7.8",
+    "nodemailer": "^6.9.8"
+  }
+}
