@@ -1,6 +1,6 @@
 # 📧 Cold Email CLI Tool
 
-A **Node.js command-line application** that sends personalized cold emails in bulk using:
+A **Node.js command-line application** that sends personalized cold emails using:
 
 - a CSV file for contacts
 - a text template for email content
